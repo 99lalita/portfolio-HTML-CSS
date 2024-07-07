@@ -415,6 +415,14 @@
   background-size: cover;
   margin-left: 120px;
 }
+
+#project11 {
+  background: url(./Images/projects/ShoppingCart.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 120px;
+}
 .project-card::after {
   content: "";
   position: absolute;
